@@ -1,38 +1,38 @@
 [
   {
+    "name": "Salman Alshathri",
+    "title": "Chairman",
+    "detail": "Our Chairman is a visionary leader with a vast experience and knowledge in the field of Advance technologies. With a passion for innovation and an unwavering commitment to excellence, he has played a pivotal role in shaping our company's growth and success. Under his guidance, our company continues to lead in the development and manufacturing of advanced technological solutions",
+    "image": "./CEO.jpeg"
+  },
+  {
+    "name": "Dr. Hamad Alfouzan",
+    "title": "CEO",
+    "detail": "Our CEO brings a wealth of experience and expertise in leading and managing  companies, He is committed to driving innovation and ensuring that our company's operations and services align with the highest standards of quality and efficiency. Under his leadership and direction",
+    "image": "./CEO.jpeg"
+  },
+  {
+    "name": "Eng. Abdulaziz Alhussain",
+    "title": "VP of Business",
+    "detail": "Our VP of Business brings a unique blend of skills and expertise in engineering and business development. With a deep understanding of technical and engineering aspects of advance technologies, he has been instrumental in our company's growth and success. He has a strong track record of developing and delivering innovative technological solutions that meet our clients' needs",
+    "image": "./VP-Business.jpeg"
+  },
+  {
     "name": "Aliva Priva Jardin",
-    "price": "47,043",
+    "title": "47,043",
     "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "image": "./CEO.jpeg"
   },
   {
     "name": "Asatti Garden City",
-    "price": "66,353",
+    "title": "66,353",
     "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "image": "./CEO.jpeg"
   },
   {
     "name": "Citralan Puri Serang",
-    "price": "35,853",
+    "title": "35,853",
     "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
-  },
-  {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
-  },
-  {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
-  },
-  {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "image": "./CEO.jpeg"
   }
 ]
